@@ -1,2 +1,3 @@
-#Prismology!
+Prismology!
+
 private minecraft discord repo
